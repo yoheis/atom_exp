@@ -1,0 +1,37 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "91c6d73c-816c-4d8b-943e-ab0f37a397ea"
+    typescript:
+      beautify_on_save: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "genesis-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "730e7c18-f76f-659c-6c4f-b07d9dc04783"
+  linter:
+    showErrorPanel: false
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+    displayMinimapOnLeft: true
+    moveCursorOnMinimapClick: true
+    scrollAnimation: true
+  "terminal-plus":
+    core: {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".source.ts":
+  editor:
+    showIndentGuide: true
+".source.tsx":
+  editor:
+    preferredLineLength: 100
